@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mail Sender</string>
+    <string name="phone">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="name">Nombre</string>
+    <string name="familyName">Apellidos</string>
+    <string name="mailButton">Enviar mail</string>
+
+</resources>
